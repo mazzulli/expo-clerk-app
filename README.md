@@ -51,8 +51,22 @@ Join our community of developers creating universal apps.
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 
-User: mazzulli@live.com
-Pwd: info@2089
+## Application
 
-User: danilo.mazzulli@gmail.com
-Pwd: info1978
+Esta aplicação foi para testar a integração e uso do Clerk para autenticação segura.
+Ela verifica se o usuário já está logado ou possui uma sessão aberta e direciona para a pagina principal.
+Caso não tenha uma sessão aberta, é direcionado para tela de login, onde ele pode entrar com email e senha e efetuar o login, ou ele pode cadastrar uma nova conta.
+Uma vez logado na aplicação é possível acessar a página do perfil para inclusão do nome e sobre nome.
+Lembrando que para que estas informações possam ser atualizadas é necessário que estejam configuradas e liberadas no painel de configurações do Clerk.
+
+A aplicação se resume nos seguintes recursos:
+
+- Tela de Login
+- Tela Home
+- Tela de Perfil
+
+![Image](https://github.com/user-attachments/assets/a0fd4fd9-1791-4720-9753-261f1e11fcde)
+
+![Image](https://github.com/user-attachments/assets/47940713-fbb4-4e8f-8445-d9df5adefe03)
+
+![Image](https://github.com/user-attachments/assets/584e3768-1915-4fa2-a127-f79683478f15)
