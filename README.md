@@ -62,11 +62,7 @@ Lembrando que para que estas informações possam ser atualizadas é necessário
 A aplicação se resume nos seguintes recursos:
 
 - Tela de Login
-- Tela Home
+- Tela Cadastro
 - Tela de Perfil
 
-![Image](https://github.com/user-attachments/assets/a0fd4fd9-1791-4720-9753-261f1e11fcde)
-
-![Image](https://github.com/user-attachments/assets/47940713-fbb4-4e8f-8445-d9df5adefe03)
-
-![Image](https://github.com/user-attachments/assets/584e3768-1915-4fa2-a127-f79683478f15)
+![Image](https://github.com/user-attachments/assets/a0fd4fd9-1791-4720-9753-261f1e11fcde) ![Image](https://github.com/user-attachments/assets/47940713-fbb4-4e8f-8445-d9df5adefe03) ![Image](https://github.com/user-attachments/assets/584e3768-1915-4fa2-a127-f79683478f15)
